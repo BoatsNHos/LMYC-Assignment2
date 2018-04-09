@@ -3,7 +3,7 @@
 Bryan Brotonel: A00983072 : mrbryanbrotonel@gmail.com
 Kerry Regan: A00915421  : Kregan89@gmail.com
 
-URL:
+URL: https://brotonel-regan-lmyc2.azurewebsites.net
 
 Completed: We have completed all of the database, login, register, and some Angular integration
 
